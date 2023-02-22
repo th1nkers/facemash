@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facemash/static/css/main.e0f5e45f.css",
+    "main.js": "/facemash/static/js/main.cf253c33.js",
+    "static/js/787.ca7f7ed0.chunk.js": "/facemash/static/js/787.ca7f7ed0.chunk.js",
+    "index.html": "/facemash/index.html",
+    "main.e0f5e45f.css.map": "/facemash/static/css/main.e0f5e45f.css.map",
+    "main.cf253c33.js.map": "/facemash/static/js/main.cf253c33.js.map",
+    "787.ca7f7ed0.chunk.js.map": "/facemash/static/js/787.ca7f7ed0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f5e45f.css",
+    "static/js/main.cf253c33.js"
+  ]
+}
